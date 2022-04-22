@@ -1,0 +1,37 @@
+Extensões instaladas
+Auto Rename, completa tags.
+Dracula Offical para mudar tema
+Live Server, ver atualizações em tempo real
+
+
+Atalhos
+Doctype- shift+! ou html:5
+Fazer uma copia de linha embaixo: alt+shift+seta pra baixo 
+linkar com pagina css: digitar link:css
+procurar arquivo nas pastas: ctrl+espaço
+fontawsome.com - colocar incones em botoes ou no texto
+
+
+
+<header> menu de navegação ou navbar
+div caixas de informações
+nav tag sem usada para cirar menus de navegação
+
+
+
+CSS
+Reset CSS - zerar margens
+tag htaml - digitar a tag mo css
+class - digitar . e nome da classe
+no css podem ser declaradas variáveis dentro de root
+
+BODY - background, fontfamily
+tirar padrao de link no css - a{ text-decoration:none / color(mudar a cor)
+mudar a cor quando passa o mouse - a:hover{color...
+
+menu está dentro de conatiner, neste trabalhamos com flex box, cada tag ou div é um flex box
+
+
+Foi instalado carrosel de imagens com base em JQuery
+
+
